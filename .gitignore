@@ -1,0 +1,9 @@
+# python
+__pycache__/
+.ipynb_checkpoints
+
+# venv
+.venv/
+
+# data
+prod_snapshot/
