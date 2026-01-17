@@ -7,3 +7,9 @@ __pycache__/
 
 # data
 prod_snapshot/
+
+# results
+query_classification.csv
+long_conv.json
+chat_questions/
+figures/
